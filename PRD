@@ -1,0 +1,71 @@
+📊 Plano de MVP – Aplicativo de Finanças Conversacional
+
+1. Agente Financeiro Virtual
+
+• Comportamento: atua como um consultor financeiro pessoal, amigável e acessível.
+• Tom de voz: educativo, simples e motivador, evitando termos técnicos complexos.
+• Funções principais:• Responder perguntas sobre gastos e metas.
+• Dar dicas de economia personalizadas.
+• Incentivar o usuário com mensagens positivas (“Você está perto de atingir sua meta!”).
+
+---
+
+2. Fluxo de Telas (conceitual)
+
+O aplicativo é guiado por conversas, mas terá telas de apoio para visualização.
+
+• Tela inicial (Chat):• Usuário registra gastos em linguagem natural: “Gastei R$50 no supermercado”.
+• O agente confirma e classifica automaticamente.
+
+• Tela de categorias:• Mostra os gastos agrupados (alimentação, transporte, lazer).
+• Permite ajustes manuais se necessário.
+
+• Tela de metas:• Usuário define objetivos (“Guardar R$200 este mês”).
+• Acompanhamento com barras de progresso simples.
+
+• Tela de relatórios:• Gráficos básicos (pizza ou barras) mostrando gastos por categoria.
+• Resumo semanal/mensal em linguagem clara.
+
+• Tela de dicas:• Recomendações automáticas de economia.
+• Exemplo: “Você gastou 20% a mais em delivery este mês. Que tal cozinhar mais em casa?”
+
+---
+
+3. Funcionalidades Principais (Resumo)
+
+1. Registro de gastos via chat (texto/voz).
+2. Classificação automática das transações.
+3. Definição e acompanhamento de metas financeiras.
+4. Dicas de economia personalizadas.
+5. Relatórios simples e visuais.
+
+
+---
+
+4. Recursos e Tecnologias Necessários
+
+• Frontend: React Native (iOS e Android).
+• Backend: Node.js + banco de dados (MongoDB ou Firebase).
+• Processamento de linguagem natural (NLP): integração com serviços de IA para interpretar mensagens.
+• Reconhecimento de voz: APIs nativas (Google Speech-to-Text, Apple Speech).
+• Visualização de dados: bibliotecas de gráficos simples (Chart.js, Recharts).
+• Segurança: autenticação básica (OAuth, login social).
+
+---
+
+5. Validação Inicial com Usuários
+
+• Objetivo: verificar se o app realmente facilita o controle financeiro sem esforço manual.  
+• Passos:1. Teste piloto com 20–30 usuários iniciantes.
+2. Métricas principais:• Quantidade de gastos registrados por conversa.
+• Frequência de uso semanal.
+• Clareza dos relatórios (feedback qualitativo).
+• Grau de satisfação com as dicas de economia.
+
+3. Ajustes: melhorar linguagem do agente e simplificar relatórios conforme feedback.
+
+---
+
+✅ Conclusão
+
+Este MVP foca em simplicidade e engajamento: o usuário conversa com o app como se fosse um consultor financeiro, sem precisar preencher planilhas ou formulários. O sucesso inicial será medido pela adesão ao registro de gastos e pela percepção de que o app torna o controle financeiro mais fácil e motivador.
