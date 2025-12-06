@@ -1,0 +1,24 @@
+📱 Resumo do App de Finanças
+
+O aplicativo funciona como um consultor financeiro virtual que conversa com o usuário.
+
+• Permite registrar gastos por texto ou voz, sem formulários complexos.
+• Classifica automaticamente as transações em categorias (alimentação, transporte, lazer etc.).
+• Ajuda a definir e acompanhar metas financeiras personalizadas.
+• Oferece dicas de economia adaptadas ao perfil do usuário.
+• Gera relatórios simples e visuais, facilitando o entendimento da situação financeira.
+
+🔎 Reflexão sobre o processo
+
+1. O que funcionou bem
+
+• A ideia de usar conversa natural para registrar gastos foi intuitiva e reduziu a barreira de entrada.
+• A estrutura de MVP ficou clara, com foco em funcionalidades essenciais e simples.
+• O uso de IA para classificação automática e geração de dicas mostrou-se promissor e engajador.
+
+
+2. O que não funcionou como o esperado
+
+• A categorização automática ainda depende de ajustes: algumas frases podem ser interpretadas de forma incorreta.
+• A integração de voz e NLP exige testes práticos para garantir fluidez e precisão.
+• Relatórios visuais precisam ser simplificados para não sobrecarregar iniciantes.
